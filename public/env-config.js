@@ -1,0 +1,3 @@
+window._env_ = {
+  REACT_APP_BACKEND_SERVER_URL: "http://localhost:8080",
+}
